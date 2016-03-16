@@ -3,6 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CalcProjectTest
 {
+    
     [TestClass]
     public class CalcTest
     {
