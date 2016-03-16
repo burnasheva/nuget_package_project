@@ -6,6 +6,7 @@ namespace CalcProjectTest
     [TestClass]
     public class CalcTest
     {
+        
         [TestMethod]
         public void TestAdd()
         {
